@@ -23,7 +23,7 @@ Astrastudio is an enterprise-grade, low-code visual IDE and orchestration platfo
 
 > **Built on [`strnad/CrewAI-Studio`](https://github.com/strnad/CrewAI-Studio) (MIT License).** Astrastudio takes that project's no-code agent/task/crew builder as its foundation and extends it with multi-user authentication, an encrypted credentials vault, DocLing-powered knowledge ingestion, an MCP server hub with pre-flight connection testing, dependency-aware cascade deletion, and a redesigned interface. See [Relationship to CrewAI-Studio](#-relationship-to-crewai-studio) for the full breakdown of what's inherited vs. new.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR_STREAMLIT_DEPLOYMENT_URL.streamlit.app) <!-- TODO: replace with your live deployment URL -->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://astrastudio.streamlit.app/) 
 
 ---
 
