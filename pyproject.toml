@@ -38,6 +38,7 @@ dependencies = [
     "crewai[google-genai]==1.5.0",
     "cryptography==46.0.3",
     "dataclasses-json==0.6.7",
+    "ddgs>=9.10.0",
     "defusedxml==0.7.1",
     "deprecation==2.1.0",
     "dill==0.4.0",
